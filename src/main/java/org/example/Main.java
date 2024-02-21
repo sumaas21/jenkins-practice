@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
      System.out.println("helloo world ");System.out.println(" i am first test of jenkins");System.out.println("helloo world ");
         System.out.println(" how r uuuuuu ");
+        System.out.println("I AM MAIN CLASS");
         }
 
 }
